@@ -57,7 +57,7 @@ A web application that helps farmers identify possible plant-leaf diseases from 
 | Photo | Name | Student ID | Role | GitHub |
 |---|---|---|---|---|
 | <img src="https://plain-apac-prod-public.komododecks.com/202611/16/ycVLTQggVgcgR1ygFYup/image.jpg" width="100" alt="Md Hanif Sheikh"/> | **Md Hanif Sheikh** | 11230321379 | Team Leader | [@hanif100391](https://github.com/hanif100391) |
-| <img src="https://i1.rgstatic.net/ii/profile.image/11431281976962086-1772382066461_Q512/Md-Shinha-Sarder.jpg" width="100" alt="Md Shinha Sarder"/> | **Md Shinha Sarder** | 11230321372 | Member | [@md-shinha-sarder](https://github.com/md-shinha-sarder) |
+| <img src="https://plain-apac-prod-public.komododecks.com/202611/16/wd2OiiKyWwJHzqct3nH9/image.webp" width="100" alt="Md Shinha Sarder"/> | **Md Shinha Sarder** | 11230321372 | Member | [@md-shinha-sarder](https://github.com/md-shinha-sarder) |
 | <img src="https://plain-apac-prod-public.komododecks.com/202611/16/piNxvE007q3fC6GIcRAl/image.jpg" width="100" alt="Md Haris Sheikh"/> | **Md Haris Sheikh** | 11230321378 | Member | [@harisbd202-lang](https://github.com/harisbd202-lang) |
 
 ---
