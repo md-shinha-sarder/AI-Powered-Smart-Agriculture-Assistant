@@ -70,7 +70,6 @@ async function requestAdvice(payload) {
       generationConfig: { temperature: 0.35, maxOutputTokens: 900 },
     }),
   })
-
   const result = await providerResponse.json().catch(() => ({}))
   if (!providerResponse.ok) {
     console.error(`Gemini request failed with status ${providerResponse.status}.`)
