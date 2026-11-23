@@ -103,7 +103,6 @@ function serveFrontend(response, pathname) {
   response.writeHead(200, { 'Content-Type': contentTypes[extname(target)] || 'application/octet-stream', 'X-Content-Type-Options': 'nosniff' })
   createReadStream(target).pipe(response)
 }
-
 loadEnvironment()
 
 const port = Number(process.env.PORT || 3001)
