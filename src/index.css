@@ -1,0 +1,8 @@
+:root{font-family:'DM Sans','Segoe UI',sans-serif;color:#242d26;background:#f4f6f1;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-weight:400;--ink:#242d26;--muted:#788178;--line:#e3e8df;--paper:#fff;--canvas:#f4f6f1;--green:#2e6848;--green-dark:#194632;--green-pale:#eaf3e9;--gold:#d7a747;--blue:#44769a;--violet:#7960a3;--rose:#b75d58;--mono:'IBM Plex Mono','SFMono-Regular',Consolas,monospace}
+*{box-sizing:border-box}
+body{min-width:320px;min-height:100vh;margin:0}
+button,input{font:inherit}
+button{color:inherit}
+button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid #477c58;outline-offset:3px}
+::selection{color:#fff;background:#477c58}
+#root{min-height:100vh}
